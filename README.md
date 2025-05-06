@@ -1,6 +1,6 @@
 # Mobile App vs Website: A Linear Regression Approach to Customer Spending
 
-This project explores how customer spending varies between mobile apps and websites using a linear regression approach.
+This project explores how customer spending varies between mobile apps and websites using a linear regression approach. I conducted a comparative analysis of customer ordering behavior across two platforms—mobile application and website—using regression modeling. The goal was to understand how platform choice influences sales, and to generate actionable business insights from the dataset.
 
 ## Features:
 - Avg. Session Length
